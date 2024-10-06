@@ -1,0 +1,58 @@
+body 
+{
+    background-color: #5c825b;
+}
+
+
+
+h1{color :#123011; 
+    text-align: center; font-family: verdana}
+
+h2{color :#123011; 
+    text-align: center; font-family: verdana}
+    
+h3{color :#123011; 
+    text-align: center; font-family: verdana}   
+
+p{color :#123011; 
+    text-align: center; font-family: verdana}    
+
+
+li{color :#123011; 
+    text-align: left; font-family: verdana; font-weight: bold;}
+
+a.button
+{
+    background-color: #123011;
+    border: none;
+    color: #5c825b;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 18px;
+    font-family: verdana;
+     
+}
+
+.gombok
+{
+    text-align: center;
+}
+
+button
+{
+    background-color: #123011;
+    border: none;
+    color: #5c825b;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: medium;
+    font-family: verdana;
+    margin: auto;
+    display: block;
+    font-weight: bold;
+}
+
+div{ font-weight: bold; font-size: medium;}
+
+img{margin: auto;
+    display: block;}
