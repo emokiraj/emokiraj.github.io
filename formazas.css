@@ -7,20 +7,25 @@ body
 
 h1{color :#123011; 
     text-align: center; font-family: verdana; font-size: 10vw}
+    text-align: center; font-family: verdana; font-size: 5vw}
 
 h2{color :#123011; 
     text-align: center; font-family: verdana; font-size: 10vw}
+    text-align: center; font-family: verdana; font-size: 5vw}
     
 h3{color :#123011; 
     text-align: center; font-family: verdana}   
     text-align: center; font-family: verdana; font-size: 10vw}   
+    text-align: center; font-family: verdana; font-size: 5vw}   
 
 p{color :#123011; 
     text-align: center; font-family: verdana}    
+    text-align: center; font-family: verdana; font-size: 3vw}    
 
 
 li{color :#123011; 
     text-align: left; font-family: verdana; font-weight: bold;}
+    text-align: left; font-family: verdana; font-weight: bold; font-size: 3vw}
 
 a.button
 {
@@ -30,6 +35,7 @@ a.button
     padding: 15px 20px;
     text-align: center;
     font-size: 18px;
+    font-size: 3vw;
     font-family: verdana;
      
 }
@@ -37,6 +43,7 @@ a.button
 .gombok
 {
     text-align: center;
+    text-align: center; font-size: 3vw
 }
 
 button
@@ -51,9 +58,11 @@ button
     margin: auto;
     display: block;
     font-weight: bold;
+    font-size: 3vw;
 }
 
 div{ font-weight: bold; font-size: medium;}
+div{ font-weight: bold; font-size: 3vw;}
 
 img{margin: auto;
     display: block;}
