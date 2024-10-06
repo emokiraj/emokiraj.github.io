@@ -6,31 +6,20 @@ body
 
 
 h1{color :#123011; 
-    text-align: center; font-family: verdana; font-size: 10vw}
-    text-align: center; font-family: verdana; font-size: 5vw}
-    text-align: center; font-family: verdana; font-size: 50px}
+    text-align: center; font-family: verdana}
 
 h2{color :#123011; 
-    text-align: center; font-family: verdana; font-size: 10vw}
-    text-align: center; font-family: verdana; font-size: 5vw}
-    text-align: center; font-family: verdana; font-size: 40px}
+    text-align: center; font-family: verdana}
     
 h3{color :#123011; 
     text-align: center; font-family: verdana}   
-    text-align: center; font-family: verdana; font-size: 10vw}   
-    text-align: center; font-family: verdana; font-size: 5vw}   
-    text-align: center; font-family: verdana; font-size: 35px}   
 
 p{color :#123011; 
     text-align: center; font-family: verdana}    
-    text-align: center; font-family: verdana; font-size: 3vw}    
-    text-align: center; font-family: verdana; font-size: 30px}    
 
 
 li{color :#123011; 
     text-align: left; font-family: verdana; font-weight: bold;}
-    text-align: left; font-family: verdana; font-weight: bold; font-size: 3vw}
-    text-align: left; font-family: verdana; font-weight: bold; font-size: 30px}
 
 a.button
 {
@@ -40,8 +29,6 @@ a.button
     padding: 15px 20px;
     text-align: center;
     font-size: 18px;
-    font-size: 3vw;
-    font-size: 30px;
     font-family: verdana;
      
 }
@@ -49,8 +36,6 @@ a.button
 .gombok
 {
     text-align: center;
-    text-align: center; font-size: 3vw
-    text-align: center; font-size: 30px
 }
 
 button
@@ -65,13 +50,9 @@ button
     margin: auto;
     display: block;
     font-weight: bold;
-    font-size: 3vw;
-    font-size: 30px;
 }
 
 div{ font-weight: bold; font-size: medium;}
-div{ font-weight: bold; font-size: 3vw;}
-div{ font-weight: bold; font-size: 30px;}
 
 img{margin: auto;
     display: block;}
