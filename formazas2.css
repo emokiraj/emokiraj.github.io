@@ -6,20 +6,20 @@ body
 
 
 h1{color :#123011; 
-    text-align: center; font-family: verdana}
+    text-align: center; font-family: verdana; font-size: 50px;}
 
 h2{color :#123011; 
-    text-align: center; font-family: verdana}
+    text-align: center; font-family: verdana; font-size: 35px}
     
 h3{color :#123011; 
-    text-align: center; font-family: verdana}   
+    text-align: center; font-family: verdana; font-size: 30px}   
 
 p{color :#123011; 
-    text-align: center; font-family: verdana}    
+    text-align: center; font-family: verdana; font-size: 25px}    
 
 
 li{color :#123011; 
-    text-align: left; font-family: verdana; font-weight: bold;}
+    text-align: left; font-family: verdana; font-weight: bold; font-size: 25px}
 
 a.button
 {
@@ -45,7 +45,7 @@ button
     color: #5c825b;
     padding: 15px 20px;
     text-align: center;
-    font-size: medium;
+    font-size: 18px;
     font-family: verdana;
     margin: auto;
     display: block;
@@ -55,4 +55,4 @@ button
 div{ font-weight: bold; font-size: medium;}
 
 img{margin: auto;
-    display: block;}
+    display: block; width: 300px; height: auto;}
